@@ -1,4 +1,4 @@
-interpolation-many
+interpolation-arrays
 ==================
 
 This module will interpolate between many values in an Array.
