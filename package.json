@@ -1,0 +1,28 @@
+{
+  "name": "interpolation-many",
+  "version": "0.0.0",
+  "description": "Interpolation between many values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jam3/interpolation-many"
+  },
+  "keywords": [
+    "lerp",
+    "mix",
+    "linear",
+    "interpolation"
+  ],
+  "author": "Mikko Haapoja <me@mikkoh.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jam3/interpolation-many/issues"
+  },
+  "homepage": "https://github.com/Jam3/interpolation-many",
+  "dependencies": {
+    "interpolation-values": "0.0.0"
+  }
+}
